@@ -32,8 +32,8 @@ class Mahasiswa {
 public class Main {
     public static void main(String[] args) {
         // Membuat objek Mahasiswa
-        Mahasiswa mahasiswa1 = new Mahasiswa("Fajar Nr", "123456", "Informatika");
-        Mahasiswa mahasiswa2 = new Mahasiswa("Fajar Nr", "654321", "Sistem Informasi");
+        Mahasiswa mahasiswa1 = new Mahasiswa("Fajar Dwi", "123456789", "Informatika");
+        Mahasiswa mahasiswa2 = new Mahasiswa("Fajar Dwi", "6513t3 "Sistem Informasi");
 
         // Menggunakan metode objek
         mahasiswa1.belajar();  // Output: Budi sedang belajar.
