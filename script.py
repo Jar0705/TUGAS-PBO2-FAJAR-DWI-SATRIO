@@ -11,8 +11,8 @@ class Mahasiswa:
         print(f"{self.nama} sedang belajar.")
 
 # Implementasi penggunaan kelas Mahasiswa
-mahasiswa1 = Mahasiswa("Fajar Nr", "123456", "Informatika")
-mahasiswa2 = Mahasiswa("Fajar Nr2", "654321", "Sistem Informasi")
+mahasiswa1 = Mahasiswa("Fajar Dwi", "123456789", "Informatika")
+mahasiswa2 = Mahasiswa("Fajar Dwi", "654313444", "Sistem Informasi")
 
 # Menggunakan metode objek
 mahasiswa1.belajar()  # Output: Arya sedang belajar.
